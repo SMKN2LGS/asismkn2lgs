@@ -99,14 +99,9 @@ function hari_ini(){
         <div class="row mt-5">
             <div class="col-lg-7 d-flex align-items-center">
                 <div class="title">
-<<<<<<< HEAD
-                <h5 class="mb-5"><?php echo hari_ini(); echo ', '; echo tgl_indo(date( 'Y-m-d')); ?></h5>
-                    <h2>Aplikasi Surat Izin SMK Negeri 2 Langsa</h2>
-=======
                 <?php date_default_timezone_set('Asia/Jakarta'); ?>
                 <h5 class="mb-5"><?php echo hari_ini(); echo ', '; echo tgl_indo(date( 'Y-m-d')); ?></h5>
                     <h2>Aplikasi Surat Izin <br> SMK Negeri 2 Langsa</h2>
->>>>>>> 048e61ebc3b06e433f77b59a33c3faa19081c1c7
                     <p>Surat izin merupakan surat yang berisi keterangan pada sekolah, instansi, unversitas, ataupun tempat kerja dikarenakan adanya keperluan yang tidak dapat ditinggalkan sehingga tidak dapat hadir seperti biasanya. Surat izin harus dibuat sebenar-benarnya dan dapat dipertanggungjawabkan.</p>
 
                     <a href="daftar.php" class="btn btn-primary">Mulai !</a>
