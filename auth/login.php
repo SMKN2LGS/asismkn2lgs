@@ -99,7 +99,7 @@ if (isset($_POST["login"]) ) {
                             <div class="col-lg-6">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <h1 class="h4 text-gray-900 mb-4">Form Masuk!</h1>
+                                        <h1 class="h4 text-gray-900 mb-4">Silahkan Masuk!</h1>
                                     </div>
                                     <form class="user" action="" id="login" method="POST">
                                         <?php if (isset($error)) {
