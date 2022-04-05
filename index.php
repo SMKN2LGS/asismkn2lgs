@@ -104,7 +104,7 @@ function hari_ini(){
                     <h2>Aplikasi Surat Izin <br> SMK Negeri 2 Langsa</h2>
                     <p>Surat izin merupakan surat yang berisi keterangan pada sekolah, instansi, unversitas, ataupun tempat kerja dikarenakan adanya keperluan yang tidak dapat ditinggalkan sehingga tidak dapat hadir seperti biasanya. Surat izin harus dibuat sebenar-benarnya dan dapat dipertanggungjawabkan.</p>
 
-                    <a href="daftar.php" class="btn btn-primary">Mulai !</a>
+                    <a href="asi.php?hal=daftar" class="btn btn-primary">Mulai !</a>
                 </div>
             </div>
             <div class="col-lg-5">
