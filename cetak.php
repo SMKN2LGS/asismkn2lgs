@@ -35,7 +35,7 @@ $cetak = query("SELECT * FROM izin WHERE id_surat = $id_surat")[0];
     <body  onload="window.print(); window.onafterprint = window.close; ">
     <div class="container-fluid">
         <div class="row">
-                <img src="img/kop surat.png" alt="">
+                <img src="img/kop.png" alt="">
         </div>
     </div>
     <div class="container-fluid top cetak">
