@@ -24,7 +24,7 @@ if ($_SESSION["role"] != "user") {
     <!-- fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <title>ASI | Beranda</title>
+    <title>ASI | Tentang</title>
   </head>
   <body class="bg">
   <?php include 'layouts/navbar.php' ?>
@@ -47,7 +47,7 @@ if ($_SESSION["role"] != "user") {
             </div>
             <div class="col-lg-5">
                 <div class="image d-flex justify-content-center">
-                    <img src="img/flame-4.png" width="400" alt="" class="mt-5">
+                    <img src="img/smkn2langsa.png" width="400" alt="" class="mt-5">
                 </div>
             </div>
         </div>
