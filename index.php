@@ -109,7 +109,7 @@ function hari_ini(){
             </div>
             <div class="col-lg-5">
                 <div class="image d-flex justify-content-center">
-                    <img src="img/flame-4.png" width="400" alt="" class="mt-5">
+                    <img src="img/smkn2langsa.png" width="400" alt="" class="mt-5">
                 </div>
             </div>
         </div>
